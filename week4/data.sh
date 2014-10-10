@@ -7,7 +7,7 @@
 #: Options : none
 
 #Create a new script called scripts/data.sh, collect from the command line:
-printf "User Information"
+printf "User Information %s\n"
 #- the users name
 printf "Please enter in your name and press [ENTER]:"
 read name
@@ -21,7 +21,7 @@ read color
 
 #and print to the user the information the form
 #Hello ... you were born in ... and your favourite color is ...
-printf "Hello $name , you were born in $month and your favourite colour is $color"
+printf "Hello $name , you were born in $month and your favourite colour is $color. %s\n"
 
 #Using git from the command line, add, commit and push this script to the git repo
 
