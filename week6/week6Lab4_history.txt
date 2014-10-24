@@ -1,0 +1,395 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  export http_proxy=http://localhost:3128
+   84  echo $GIT_SSL_NO_VERIFY
+   85  echo $http_proxy
+   86  export RUN=5
+   87  echo $RUN
+   88  history
+   89  sudo -E apt-get install git
+   90  mkdir EAA
+   91  cd EAA
+   92  ls -l
+   93  touch README.md
+   94  ls -l
+   95  git init
+   96  git add README.md
+   97  git commit -m "first commit"
+   98  git config --global user.email "<cbrowne77@gmail.com>"
+   99  git config --global user.name "<brownec>"
+  100  git commit -m "first commit"
+  101  git remote add origin https://github.com/brownec
+  102  git push -u origin master
+  103  git remote add origin https://github.com/brownec/EAA
+  104  git remote add origin https://github.com/brownec/EAA.git
+  105  history | grep push
+  106  git add -A
+  107  ls
+  108  gedit README.md
+  109  man wc
+  110  export GIT_SSL_NO_VERIFY=1
+  111  export http_proxy=http://localhost:3128
+  112  sudo -E apt-get install git
+  113  git config --global user.email "<cbrowne77@gmail.com>"
+  114  git config --global user.name "<brownec>"
+  115  mkdir EAA.lab.2
+  116  cd EAA.lab.2
+  117  mkdir week2
+  118  cd week2
+  119  touch script.sh
+  120  cd..
+  121  cd ..
+  122  touch README.md
+  123  git init
+  124  git add -A
+  125  git commit -a
+  126  git remote add origin https://github.com/brownec
+  127  git remote add origin https://github.com/brownec/EAA.lab.2.git
+  128  cd ..
+  129  cd ..
+  130  cd ..
+  131  cd EAA
+  132  ls
+  133  export GIT_SSL_NO_VERIFY=1
+  134  export http_proxy=http://localhost:3128
+  135  sudo -E apt-get install git
+  136  git clone https://github.com/brownec/EAA.git
+  137  git clone https://github.com/brownec/EAA.git
+  138  git config --global user.email "<cbrowne77@gmail.com>"
+  139  git config --global user.name "<brownec>"
+  140  git clone https://github.com/brownec/EAA.git
+  141  cd EAA
+  142  touch README.md
+  143  git init
+  144  git add README.md
+  145  git commit -m "first commit"
+  146  git remote add origin https://github.com/brownec/EAA.git
+  147  git push -u origin master
+  148  cd ..
+  149  cd ..
+  150  cd ..
+  151  cd EAA
+  152  ls
+  153  export GIT_SSL_NO_VERIFY=1
+  154  export http_proxy=http://localhost:3128
+  155  sudo -E apt-get install git
+  156  git config --global user.email "cbrowne77@gmail.com"
+  157  git config --global user.name "brownec"
+  158  touch README.md
+  159  mkdir EAA
+  160  cd EAA
+  161  ls
+  162  git init
+  163  git add README.md
+  164  git commit -m "first commit"
+  165  git remote add origin https://github.com/brownec/EAA.git
+  166  git push -u origin master
+  167  export GIT_NO_VERIFY=1
+  168  export http_proxy=http://localhost:3128
+  169  sudo -E apt-get install git
+  170  git config --global user.email "cbrowne77@gmail.com"
+  171  git config --global user.name "brownec"
+  172  mkdir EAA_Lab2
+  173  cd EAA_Lab2
+  174  touch README.md
+  175  ls -l
+  176  ls
+  177  git init
+  178  git add -A
+  179  git commit -a
+  180  ls
+  181  touch script.sh
+  182  ls
+  183  cd ..
+  184  git add -A
+  185  cd EAA_Lab2
+  186  git remote add origin https://github.com/brownec/EAA_Lab2.git
+  187  git push -u origin master
+  188  export GIT_SSL_NO_VERIFY=1
+  189  export http_proxy=http://localhost:3128
+  190  sudo -E apt-get install git
+  191  mkdir EAA_Lab2
+  192  cd EAA_Lab2
+  193  ls -l
+  194  touch README.md
+  195  git init
+  196  git add README.md
+  197  git commit -m
+  198  git commit -m "first commit"
+  199  git config --global user.email "cbrowne77@gmail.com"
+  200  git config --global user.name "brownec"
+  201  git remote add origin https://github.com/brownec/EAA_Lab2.git
+  202  git push -u origin master
+  203  gedit x
+  204  gedit x
+  205  ls -l
+  206  ls -l/bin/
+  207  ls -l /bin/
+  208  ls -l /mint/home/
+  209  ls -l /mint/home
+  210  ls -l /mint/hom
+  211  ls -l /home/mint/
+  212  ls -l /home/mint/.gnome2/gedit/gedit-2
+  213  ls -l /home/mint/.gnome2/gedit/gedit-2.UUIWMX
+  214  ls -l /home/mint/.gnome2/gedit/gedit -2
+  215  ls -l /home/mint/.gnome2/gedit/
+  216  ls -l /home/mint/.gnome2
+  217  chown owner-user file
+  218  sudo chown -R mint /home/mint/.gnome2/gedit 
+  219  gedit x
+  220  ls -l
+  221  ls -l /home/mint/.gnome2
+  222  sudo chgrp -R mint /home/mint/.gnome2/gedit 
+  223  ls -l /home/mint/.gnome2
+  224  history > history03102014
+  225  export GIT_SSL_NO_VERIFY=1
+  226  export http_proxy=http://localhost:3128
+  227  sudo -E apt-get install git
+  228  git config --global user.email"cbrowne77@gmail.com"
+  229  git config --global.user.name"brownec"
+  230  git config --global user.name "brownec"
+  231  git clone https://github.com/brownec/Demo.git
+  232  ls
+  233  cd Demo
+  234  mkdir week3
+  235  cd week3
+  236  touch script.sh
+  237  cd ..
+  238  git add -A
+  239  git commit -a
+  240  git push origin master
+  241  history > PushIntoGit.txt
+  242  ls
+  243  git add -A
+  244  git commit -a
+  245  git push origin master
+  246  gedit EAA_Lab3
+  247  ls
+  248  git add -A
+  249  git commit -a
+  250  git push origin master
+  251  cd week3/
+  252  ls
+  253  gedit script.sh
+  254  ls -l
+  255  chmod +x script.sh
+  256  ls
+  257  ./script.sh
+  258  git commit script.sh
+  259  cd ..
+  260  git add -A
+  261  git commit -a
+  262  git push origin master
+  263  cd week3/
+  264  ls
+  265  gedit script.sh
+  266  ./script.sh
+  267  gedit script.sh
+  268  ./script.sh
+  269  git add -A
+  270  git commit -a
+  271  git push origin master
+  272  history > historyScript03102014.txt
+  273  git add -A
+  274  git commit -a
+  275  git push origin master
+  276  cd ..
+  277  cd ..
+  278  cd ..
+  279  export GIT_SSL_NO_VERIFY=1
+  280  export http_proxy=http://localhost:3128
+  281  sudo -E-get install git
+  282  git config --global user.email "cbrowne77@gmail.com"
+  283  git config --global user.name "Avirex77!"
+  284  git config --global user.name "brownec77"
+  285  git config --global user.name "brownec"
+  286  ls
+  287  cd Demo
+  288  mkdir week4
+  289  cd week4
+  290  export GIT_SSL_NO_VERIFY=1
+  291  export http_proxy=http://localhost:3128
+  292  ls
+  293  cd Demo
+  294  ls
+  295  cd ..
+  296  ls
+  297  cd Demo
+  298  ls
+  299  rm week4
+  300  rm -R week4
+  301  ls -l
+  302  cd week3
+  303  gedit setup.sh
+  304  echo .sh
+  305  echo.sh
+  306  ./echo.sh
+  307  ./setup.sh
+  308  ls -l
+  309  chmod +x setup.sh
+  310  ./setup.sh
+  311  cd ..
+  312  ls
+  313  mkdir week4
+  314  ls
+  315  git push -A
+  316  git add -A
+  317  git commit -a
+  318  git push origin master
+  319  ls
+  320  cd week4
+  321  gedit script.sh
+  322  git add -A
+  323  git commit -a
+  324  git push origin master
+  325  ls
+  326  gedit script.sh
+  327  gedit scripts/data.sh
+  328  git add -A
+  329  git commit -a
+  330  git push origin master
+  331  ls
+  332  gedit data.sh
+  333  git add -A
+  334  git commit -a
+  335  git push origin master
+  336  gedit data.sh
+  337  git add -A
+  338  git commit -a
+  339  git push origin master
+  340  ./data.sh
+  341  chmod +x data.sh
+  342  ./data.sh
+  343  gedit data.sh
+  344  git add -A
+  345  git commit -a
+  346  git push origin master
+  347  ./data.sh
+  348  cd ..
+  349  cd ..
+  350  history > Week4_lab3History.txt
+  351  cd Demo
+  352  cd week4
+  353  history > week4Lab3_history.txt
+  354  gedit week4Lab3_history.txt
+  355  git add -A
+  356  git commit -a
+  357  git push origin master
+  358  cd
+  359  cd ..
+  360  cd ..
+  361  export GIT_SSL_NO_VERIFY=1
+  362  export http_proxy=http://localhost:3128
+  363  ls
+  364  cd Demo
+  365  mkdir week6
+  366  ls
+  367  cd week6
+  368  cd ..
+  369  git add -A
+  370  git commit -a
+  371  cd week6
+  372  gedit diary.sh
+  373  ./diary.sh
+  374  chmod x+ diary.sh
+  375  chmod +x diary.sh
+  376  ./diary.sh
+  377  gedit diary.sh
+  378  ./diary.sh
+  379  gedit diary.sh
+  380  ./diary.sh
+  381  gedit diary.sh
+  382  ./diary.sh
+  383  gedit diary.sh
+  384  gedit diary.txt
+  385  ls
+  386  ls -l
+  387  chmod +x diary.txt
+  388  ls -1
+  389  git add -A
+  390  git commit -a
+  391  git push origin master
+  392  cd ..
+  393  ls
+  394  cd week6
+  395  history > week6Lab4_history.txt
