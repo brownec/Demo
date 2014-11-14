@@ -11,7 +11,8 @@
 
 cpucnt=$( grep processor /proc/cpuinfo | wc -l )
 
-printf "The number of CPUs is: %s\n" $cpucnt
+# printf "The number of CPUs is: %s\n" $cpucnt
 
+printf "%s" "$count" >> /home/mint/Demo/week3/script.sh
 
 
